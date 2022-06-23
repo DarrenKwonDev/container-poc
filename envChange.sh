@@ -1,0 +1,1 @@
+go env -w GOOS=linux GOARCH=amd64
